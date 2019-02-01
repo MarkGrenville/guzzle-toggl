@@ -333,7 +333,7 @@
           "location": "query",
           "type": "boolean",
           "default": false,
-          "description": "Whether returned items will contain 'time_entry_ids' key containing comma separated time entries ID values for given item."
+          "description": "Whether returned items will contain 'time_entry_ids' key containing comma separated time entries ID values."
         }
       }
     }
